@@ -1,4 +1,4 @@
-# SnakegamebySantanu 🐍🎮
+# Snake Game 🐍🎮
 
 ***
 
