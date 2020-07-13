@@ -11,6 +11,10 @@ Turtle is mainly used to introduce children to the world of computers. It’s a 
 With the Python **turtle library**, you can draw and create various types of shapes and images.
 
 ***
+![snake](https://user-images.githubusercontent.com/64271130/87259953-7a277480-c4cc-11ea-9e7e-62934be00e6d.jpg)
+
+
+***
 ### Connect with me on social media 📲 :-
 1. LinkedIn : <a href="https://www.linkedin.com/in/santanu-biswas-1482591a7/">@santanu-biswas-1482591a7</a>
 2. Instagram : <a href="https://www.instagram.com/_.santanubiswas._/">@_.santanubiswas._</a>
